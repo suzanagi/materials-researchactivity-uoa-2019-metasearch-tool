@@ -1,3 +1,6 @@
 [submodule "googler"]
 	path = googler
 	url = https://github.com/jarun/googler
+[submodule "yahooer"]
+	path = yahooer
+	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-yahooer.git
