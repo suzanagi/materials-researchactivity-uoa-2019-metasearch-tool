@@ -1,6 +1,12 @@
-[submodule "googler"]
-	path = googler
-	url = https://github.com/jarun/googler
-[submodule "yahooer"]
-	path = yahooer
-	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-yahooer.git
+[submodule "google_module"]
+	path = google_module
+	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-google_scraping_module.git
+[submodule "yahoo_module"]
+	path = yahoo_module
+	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-yahoo_scraping_module.git
+[submodule "bing_module"]
+	path = bing_module
+	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-bing_scraping_module.git
+[submodule "baidu_module"]
+	path = baidu_module
+	url = https://github.com/suzanagi/materials-researchactivity-uoa-2019-metasearch_tool-baidu_scraping_module.git
