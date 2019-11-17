@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<agencies class="famous-news-agencies">
+  <agency><name>CNN</name><domain>cnn.com</domain></agency>
+  <agency><name>BBC</name><domain>bbc.co.uk</domain></agency>
+  <agency><name>RT</name><domain>rt.com</domain></agency>
+  <agency><name>AI Jazeera</name><domain>aijazeera.com</domain></agency>
+  <agency><name>NHK</name><domain>nhk.or.jp</domain></agency>
+  <agency><name>DW</name><domain>dw.com</domain></agency>
+  <agency><name>Reuter</name><domain>reuters.com</domain></agency>
+  <agency><name>Kyodo News</name><domain>kyodonews.jp</domain></agency>
+</agencies>

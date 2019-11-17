@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<agencies class="online-newspapers">
+  <agency><name>Huff Post</name><domain>huffpost.com</domain></agency>
+  <agency><name>CBS News</name><domain>cbsnews.com</domain></agency>
+  <agency><name>BuzzFeed News</name><domain>buzzfeednews.com</domain></agency>
+  <agency><name>New York Times</name><domain>nytimes.com</domain></agency>
+  <agency><name>Guardian</name><domain>theguardian.com</domain></agency>
+  <agency><name>Financial Times</name><domain>ft.com</domain></agency>
+  <agency><name>Washington Post</name><domain>washingtonpost.com</domain></agency>
+</agencies>
